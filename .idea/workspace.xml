@@ -246,6 +246,7 @@
       <change beforePath="$PROJECT_DIR$/../pro/second.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pro/sixth.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pro/third.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rd/accounts/api/utils.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../rd/accounts/api/views.py" beforeDir="false" />
     </list>
@@ -293,11 +294,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
               <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quiz_test/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="129" column="49" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+              <folding>
+                <element signature="e#310#319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -342,10 +355,10 @@
         <option value="$PROJECT_DIR$/static/css/app.css" />
         <option value="$PROJECT_DIR$/static/css/students.css" />
         <option value="$PROJECT_DIR$/static/css/teachers.css" />
-        <option value="$PROJECT_DIR$/quiz_test/settings.py" />
         <option value="$PROJECT_DIR$/question_answer/models.py" />
         <option value="$PROJECT_DIR$/question_answer/admin.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/quiz_test/settings.py" />
       </list>
     </option>
   </component>
@@ -368,17 +381,6 @@
             <path>
               <item name="quiz_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="quiz_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz_test" type="462c0819:PsiDirectoryNode" />
-              <item name="question_answer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quiz_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quiz_test" type="462c0819:PsiDirectoryNode" />
-              <item name="question_answer" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="quiz_test" type="b2602c69:ProjectViewProjectNode" />
@@ -445,12 +447,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567361294169</updated>
       <workItem from="1567361298218" duration="90000" />
-      <workItem from="1567361389075" duration="11533000" />
+      <workItem from="1567361389075" duration="12088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11623000" />
+    <option name="totallyTimeSpent" value="12178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
@@ -653,16 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quiz_test/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding>
-            <element signature="e#310#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/question_answer/views/students.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
@@ -704,6 +696,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz_test/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="129" column="49" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
