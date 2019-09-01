@@ -2,72 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941a1181-d308-49ee-a518-c1d4be8e23e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/quiz_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/students/_header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/students/interests_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/students/quiz_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/students/take_quiz_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/students/taken_quiz_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/question_add_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/question_change_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/question_delete_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/quiz_add_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/quiz_change_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/quiz_change_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/quiz_delete_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/templates/question_answer/teachers/quiz_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/views/classrooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/views/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_answer/views/teachers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_test/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_test/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_test/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/students.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/teachers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/fontello-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/fontello-embedded.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/fontello-ie7-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/fontello-ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/css/fontello.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/font/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/font/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/font/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontello-2f186091/font/fontello.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/signup_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/instatweet/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/instatweet/accounts/__init__.py" beforeDir="false" />
@@ -511,18 +445,17 @@
       <option name="presentableId" value="Default" />
       <updated>1567361294169</updated>
       <workItem from="1567361298218" duration="90000" />
-      <workItem from="1567361389075" duration="11282000" />
+      <workItem from="1567361389075" duration="11533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11372000" />
+    <option name="totallyTimeSpent" value="11623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -536,7 +469,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3129139" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3129139" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
