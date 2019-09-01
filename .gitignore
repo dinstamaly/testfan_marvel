@@ -106,3 +106,4 @@ ENV/
 .bash_profile/
 .bash_profile
 *.bash_profile
+.*
