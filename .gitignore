@@ -103,4 +103,4 @@ ENV/
 *.sqlite3
 .idea/
 .idea
-.bash_profile
+.bash_profile/
