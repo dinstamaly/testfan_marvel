@@ -103,5 +103,4 @@ ENV/
 *.sqlite3
 .idea/
 .idea
-.*
-!.gitignore
+*.bash_profile
