@@ -104,3 +104,5 @@ ENV/
 .idea/
 .idea
 .bash_profile/
+.bash_profile
+*.bash_profile
